@@ -8,3 +8,6 @@ Open the exe and import your spotify accounts
 Done
 
 # Showcase
+
+![image](https://user-images.githubusercontent.com/96360358/151212478-722ec580-11d3-4b57-b2ed-ff122afc9a8e.png)
+
